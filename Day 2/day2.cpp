@@ -44,7 +44,6 @@ bool check_if_valid(string line){
     }else if(password[s-1] != letter && password[e-1] == letter) return true;
     else return false;
 
-    //cout << s << "-" << e << " " << letter << ":" << " " << password << endl;
 
 }
 
