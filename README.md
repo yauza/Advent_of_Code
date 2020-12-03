@@ -1,3 +1,5 @@
-# Advent_of_Code
+# Advent of Code
 
-Solutions to puzzles from [Advent of Code](https://adventofcode.com/)
+My solutions to puzzles from [Advent of Code 2020](https://adventofcode.com/)
+
+yauza
