@@ -12,7 +12,13 @@ My solutions to puzzles from [Advent of Code 2020](https://adventofcode.com/)
 | 22 | 23 | 24 | **25** | ~~26~~ | ~~27~~ | ~~28~~ |
 
 
-           %
+ 
+           
+           *
+          ***
+         *****
+        *******
+       *********
           ***
          *****
         *******
